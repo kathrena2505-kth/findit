@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "537587848500",
+    "firebase_url": "https://findit-wec-2026-default-rtdb.firebaseio.com",
+    "project_id": "findit-wec-2026",
+    "storage_bucket": "findit-wec-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537587848500:android:c6a82c475375e20df10161",
+        "android_client_info": {
+          "package_name": "com.example.findit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537587848500-1vvba6qg8onp961122v0dtput3hggfuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findit",
+            "certificate_hash": "052f4b40af8f8dbd12d1e83300f201ec96b1830b"
+          }
+        },
+        {
+          "client_id": "537587848500-ut51s7a33g5k7sqrkba8cnlt0fs0e9kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findit",
+            "certificate_hash": "74107bd71b274340059ba1057310cb06e2347920"
+          }
+        },
+        {
+          "client_id": "537587848500-s211531en5pof1mlidbpuh724liap156.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBe-OP7KiPt7KOgQ5GSDXDju35S1EixEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537587848500-s211531en5pof1mlidbpuh724liap156.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537587848500-ukg6ea8ks48ov8d95kafkiudnlfot525.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.findit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

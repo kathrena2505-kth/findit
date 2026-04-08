@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "findit-wec-2026",
+          "appId": "1:537587848500:android:c6a82c475375e20df10161",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "findit-wec-2026",
+          "configurations": {
+            "android": "1:537587848500:android:c6a82c475375e20df10161",
+            "ios": "1:537587848500:ios:51274dcabefd89c8f10161",
+            "macos": "1:537587848500:ios:51274dcabefd89c8f10161",
+            "web": "1:537587848500:web:1e3715303148094bf10161",
+            "windows": "1:537587848500:web:ca30d1188d2076eef10161"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
